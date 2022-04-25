@@ -20,7 +20,7 @@ spec:
           host: "pr-devops-toolkit-1.dev-mcp.mercatus.com"
       version: v3
     path: helm
-    repoURL: https://github.com/klemps/argocd-previews.git
+    repoURL: https://github.com/vfarcic/devops-toolkit.git 
     targetRevision: HEAD
   syncPolicy:
     automated:
